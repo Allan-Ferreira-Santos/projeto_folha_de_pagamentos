@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Folha-de-pagamento.props" />
+</Project>
